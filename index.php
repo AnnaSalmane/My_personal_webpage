@@ -23,16 +23,16 @@
         </nav>
         <section id="home">
             <div id="home__glass">
-                <h1>Anna Salmane</h1>
+                <h1>Hi! I am Anna Salmane!</h1>
                 <hr>
-                <h2>My personal page</h2>
+                <h2>I want to be a web developer</h2>
             </div>
         </section>
         <section id="profile">
             <h1>Profile</h1>
             <div class="profile_container">
                 <div id="my_picture">
-                    <img src="woman.jpg" alt="My picture">
+                    <img src="/bootcamp_final_project/images/my_picture.jpg" alt="My picture">
                 </div>
                 <div id="about_me">
                     <h2>About me</h2>
