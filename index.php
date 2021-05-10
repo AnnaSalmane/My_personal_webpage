@@ -34,12 +34,12 @@
         <section id="profile">
             <h1>Profile</h1>
             <div class="profile_container">
-                <div id="my_picture">
+                <div class="my_picture">
                     <img src="/bootcamp_final_project/images/my_picture.jpg" alt="My picture">
                 </div>
-                <div id="about_me">
+                <div class="about_me">
                     <h2>About me</h2>
-                    <p>llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll</p>
+                    <p>I have been learning web programming for several months now. I have gained a lot of knowledge of front-end techniques and know how to work back-end. I like making web pages visual look. I am very meticulous and I will pay attention to every little detail and do it until everything is perfect. I love learning new things and new solutions in programming.</p>
                 </div>
             </div>
         </section>

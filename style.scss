@@ -132,6 +132,23 @@ section .profile_container {
   justify-content: space-around;
   width: 70%;
   height: 100vh;
+
+  .about_me {
+    padding-left: 30px;
+    padding-top: 10px;
+    h2 {
+      color: #97071f;
+      opacity: 0.9;
+      font-weight: 700;
+    }
+    p {
+      font-weight: 500;
+      font-style: italic;
+      color: #97071f;
+      opacity: 0.5;
+      padding-top: 15px;
+    }
+  }
 }
 
 section#profile img {
@@ -162,7 +179,8 @@ section#experiences {
     }
     span {
       font-weight: 300;
-      opacity: 0.5;
+      color: #97071f;
+      opacity: 0.2;
     }
 
     h3 {
