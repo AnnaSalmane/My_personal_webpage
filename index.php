@@ -41,18 +41,48 @@
             </div>
         </section>
         <section id="experiences">
-            <h1>Experiences</h1>
-            <div id="educations">
-                <h2>Educations</h2>
-                <h3>Riga Technical university</h3>
-                <h4>Civil engeneering</h4>
-                <p>sfjhkzfhkxdfkxrhfgxdhlvkglfxdvlxdrjghkxdjlfvkxfuhxgkxdrgkxdhhrgjhxdkf</p>
-            </div>
-            <div id="careers">
-                <h2>Careers</h2>
-                <h3>8CBR</h3>
-                <h4>Project assistant</h4>
-                <p>fzhodufgvzsohfouzvsdhffffzsvoufhozuefvkzhsegolzughfkzhsjkzhsujhfkh</p>
+            <!-- <h1>Experiences</h1> -->
+            <div class="experiences_container">
+                <div>
+                    <h2>Educations</h2>
+                    <div class="educations">
+                        <h3>Riga Technical university</h3>
+                        <span>September 2015 - November 2019</span>
+                        <h4>Civil engeneering</h4>
+                    </div>
+                    <div class="educations">
+                        <h3>Valmiera State gymnasium</h3>
+                        <span>September 2012 - June 2015</span>
+                        <h4>from 10 to 12 class</h4>
+                    </div>
+
+                </div>
+                <div class="courses">
+                    <h2>Courses</h2>
+                    <div class="educations">
+                        <h3>Riga Coding school</h3>
+                        <span>March 2021 - May 2021</span>
+                        <h4>WEB BOOTCAMP</h4>
+                    </div>
+                    <div class="educations">
+                        <h3>ZTM</h3>
+                        <span>October 2020 - May 2021</span>
+                        <h4>The Complete Web Developer in 2021</h4>
+                    </div>
+                    <div class="educations">
+                        <h3>Riga TechGirls</h3>
+                        <span>August 2020 - October 2020</span>
+                        <h4>Iepazīsti tehnoloģijas</h4>
+                    </div>
+                </div>
+                <div class="careers">
+                    <h2>Careers</h2>
+                    <div class="educations">
+                        <h3>8 CBR</h3>
+                        <span>Apr 2017 - July 2020</span>
+                        <h4>Project assistant</h4>
+                    </div>
+                </div>
             </div>
         </section>
         <section id="skills">
