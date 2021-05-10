@@ -173,20 +173,25 @@ section#skills {
     display: grid;
     list-style: none;
     padding-top: 15px;
+
+    p {
+      color: saddlebrown;
+      opacity: 0.8;
+    }
   }
   .bar {
-    background: #353b48;
+    background: #583a0ccc;
     display: block;
     height: 3px;
-    border: 1px solid rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(0, 0, 0, 0.1);
     border-radius: 3px;
     overflow: none;
-    box-shadow: 0 0 10px #2187e7b3;
+    box-shadow: 0 0 10px #fff459;
 
     span {
       height: 3px;
       float: left;
-      background: #2187e7;
+      background: #fff459;
     }
   }
 
@@ -321,7 +326,7 @@ section#contact {
       left: 8%;
       width: 28%;
       height: 55%;
-      background: rgb(116, 53, 2);
+      background: saddlebrown;
       z-index: 1;
       padding: 40px 40px 40px 0px;
       display: flex;
@@ -416,7 +421,7 @@ section#contact {
       box-shadow: 0 50px 50px rgba(0, 0, 0, 0.5);
 
       h2 {
-        color: rgb(116, 53, 2);
+        color: saddlebrown;
         font-size: 24px;
         font-weight: 500;
       }
@@ -432,7 +437,7 @@ section#contact {
         .inputBox {
           position: relative;
           margin: 0 0 50px 0;
-          color: rgb(116, 53, 2);
+          color: saddlebrown;
           width: 45%;
 
           input {
@@ -462,12 +467,12 @@ section#contact {
             font-size: 12px;
             font-weight: 400;
             letter-spacing: 1px;
-            color: rgb(219, 140, 76);
+            color: rgb(190, 94, 38);
           }
           #submit {
             position: relative;
             cursor: pointer;
-            background: rgb(116, 53, 2);
+            background: saddlebrown;
             color: #fff;
             border: none;
             height: 50px;
