@@ -7,6 +7,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,500;0,700;1,300;1,500&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+
 </head>
 
 <body>
@@ -22,11 +23,13 @@
             </ul>
         </nav>
         <section id="home">
-            <div id="home__glass">
+            <div class="fancy">
                 <h1>Hi! I am Anna Salmane!</h1>
                 <hr>
                 <h2>I want to be a web developer</h2>
+                <!-- <script src="TextAnimation.js"></script> -->
             </div>
+
         </section>
         <section id="profile">
             <h1>Profile</h1>
